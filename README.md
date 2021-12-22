@@ -1,4 +1,4 @@
-# GameController_Macropad
+# GameController Macropad
 
 Use a game controller on Windows as a macropad, primarily to control audio functions quickly & easily, or launch applications.
 
