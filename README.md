@@ -6,3 +6,4 @@ I did not exhaustively investigate the universe of options, I just came across a
 
 You'll want to run this in an editor and modify the button mappings to reflect what makes the most sense in your situation.
 
+https://github.com/nhsb1/GameController_Macropad/issues/1
